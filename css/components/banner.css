@@ -1,0 +1,58 @@
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  height: 300px;
+}
+
+.banner-info {
+  color: white;
+  margin: auto;
+  width: 1000px;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: rgb(255, 187, 0);
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  margin-top: 20px;
+  margin-left: -15px;
+}
+
+.how_it_works_container{
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  margin-top: -40px;
+}
+
+
+.how_it_works_container h2{
+  padding-top: 40px;
+  font-size: 40px;
+}
+
+.footer {
+  background-color: black;
+  margin-top: -20px;
+  padding-bottom: 100px;
+  color: white;
+}
+
+/*
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+} */
